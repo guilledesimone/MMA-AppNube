@@ -1,7 +1,0 @@
-# Production
-scikit-learn==1.3.0
-scipy
-numpy
-Flask==2.3.2
-boto3==1.28.25
-h5py
